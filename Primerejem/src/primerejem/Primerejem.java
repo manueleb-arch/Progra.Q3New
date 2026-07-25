@@ -6,7 +6,7 @@ package primerejem;
 
 /**
  *
- * @author manue
+ * @author manuel....
  */
 public class Primerejem {
 
